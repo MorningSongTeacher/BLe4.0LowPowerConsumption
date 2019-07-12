@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">LanYaDemo</string>
+
+    <string name="blutooth_control">蓝牙导航</string>
+    <string name="select_device">选择一个蓝牙设备</string>
+    <string name="scanning">搜索蓝牙设备中...</string>
+    <string name="paired">配对</string>
+    <string name="ble_not_supported">不支持低功耗蓝牙</string>
+    <string name="ble_connect_fist">请先连接蓝牙设备</string>
+    <string name="scan">扫描</string>
+    <string name="ble_password_change">蓝牙密码修改</string>
+    <string name="hint_pwd_6">请输入6位数字密码</string>
+    <string name="hint_pwd">请输入密码</string>
+    <string name="hint_pwd_confirm">请再次输入密码</string>
+    <string name="waring_login_error">密码错误,请重新输入密码</string>
+    <string name="password_change_success">密码修改成功</string>
+    <string name="password_check_success">密码验证通过</string>
+
+    <string name="report_lat_and_lng">上报经纬度</string>
+    <string name="blu_connected">设备已连接</string>
+    <string name="blu_disconnected">设备已断开连接</string>
+    <string name="location_name">修改定位点名称</string>
+    <string name="destination">目的地</string>
+    <string name="prompt">提示</string>
+    <string name="bluetooth_naming">蓝牙命名</string>
+    <string name="please_enter_device_ID">请输入设备ID</string>
+    <string name="no_device_ID">没有设备ID</string>
+    <string name="write_successfully">写入成功</string>
+    <string name="read_successfully">读取成功</string>
+    <string name="error_returning_data_format">返回数据格式错误</string>
+    <string name="non_existent_instruction_codes">不存在的指令码</string>
+    <string name="no_latitude_and_longitude">该位置没有经纬度</string>
+    <string name="no_more_than_50_locating_points">不能超过50个定位点</string>
+    <string name="the_device_ID_is_wrong">设备ID错误,请检查设备ID</string>
+    <string name="connecting_bluetooth_device">正在连接蓝牙设备</string>
+    <string name="connect_to_bluetooth">连接到蓝牙</string>
+    <string name="bluetooth_disconnected">蓝牙已断开</string>
+    <string name="compass_mode">指南模式</string>
+    <string name="route_mode">路径模式</string>
+    <string name="please_open_bluetooth_note">请打开手机蓝牙设置</string>
+    <string name="useApp_note">获取位置信息:\n长按地图选择目的地位置</string>
+    <string name="app_connect_error_device">APP无法连接该设备</string>
+    <string name="white_suc_delete_allView">位置写入成功,是否删除该路线</string>
+
+    <string name="confirm">确 定</string>
+    <string name="cancel">取 消</string>
+</resources>
